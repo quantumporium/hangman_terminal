@@ -1,5 +1,8 @@
 # Hangman (terminal edition)
 
+# This project isn't finished to completion
+'' I mean the code work a little bit, but everything else is kindo of put together. At the end of the project I was kinda done with it. ''
+
 Hangam (the long beloved game) is now on the termianl. The goal is to find the
 hidden words. You have 5 chances to get the hidden words rights or you lose.
 Each wrong answer will get one of the member of the hangman to get cut off. 
